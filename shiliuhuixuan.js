@@ -2,14 +2,14 @@
  * @石榴会选多账号申请试用。2024-05-12
  *@sdqd6318 
  */
-const activityIds = [824559,824415,824414,824086,824409,824374,823385]; // 修改为包含多个活动ID的数组。多个ID用逗号间隔开
+const activityIds = [866865,867638,824414,824086,824409,824374,823385]; // 修改为包含多个活动ID的数组。多个ID用逗号间隔开
 
 // 账号数组，包含4个账号的信息
 const accounts = [
-  { name: "账号1", PHPSESSID: "token", id: 123456 },
-  { name: "账号3751", PHPSESSID: "token", id: 123456 },
-  //{ name: "账号3", PHPSESSID: "token", id: 123456 },
-  //{ name: "爸电信号", PHPSESSID: "token", id: 123456 },
+  { name: "账1", PHPSESSID: "dda10dd7e01099508af2214c0989907c", id: 136715 },
+  { name: "婷", PHPSESSID: "68414854a18b798a31861659379a4748", id: 137974 },
+  { name: "365", PHPSESSID: "68414854a18b798a31861659379a4748", id: 138026 },
+  { name: "王博", PHPSESSID: "68414854a18b798a31861659379a4748", id: 146402 },
   //{ name: "账号44401", PHPSESSID: "token", id: 123456 }
 
 ];
